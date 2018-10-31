@@ -1,7 +1,7 @@
 <html>
 <body>
-${user.id}
-<p/>
 ${user.name}
+<p/>
+${user.pwd}
 </body>
 </html>
